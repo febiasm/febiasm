@@ -1,4 +1,4 @@
-*  👋 Im Trevor Thiru, Software Engineer
+*  👋 I'm Trevor, Software Engineer
 * 📱 I have much ❤️ for Programing
 * 📈 This is what I have been doing:
   

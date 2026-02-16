@@ -1,13 +1,12 @@
-*  👋 I'm Trevor, Software Engineer
-* 📱 I have much ❤️ for Programing
-* 📈 This is what I have been doing:
+*   I'm Trevor, Software Engineer
+*   This is what I have been doing:
   
 
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+
 
 ```text
 🌞 Morning                2723 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
@@ -49,7 +48,6 @@ HTML                     8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2023 18:39:45 UTC
 <!--END_SECTION:waka-->
 
 <br />
